@@ -1,0 +1,40 @@
+@media screen and (max-width: 768px){
+    #logo{
+        position: relative;
+        width: 100%;
+        text-align: center;
+        left: 0;
+    }
+
+    #navigation{
+        position: relative;
+        right: 0;
+        width: 100%;
+        text-align: center;
+        top: 35px;
+    }
+
+    #navigation > li{
+        font-size: 16px;
+        margin: 0 20px;
+    }
+
+    #container{
+        width: 276px;
+        margin-left: -138px;
+    }
+
+    #container > h1{
+        font-size: 70px;
+    }
+
+    #social{
+        font-size: 22px;
+    }
+
+    #social > li{
+        margin: 10px 25px;
+        display: inline-block;
+    }
+
+}
