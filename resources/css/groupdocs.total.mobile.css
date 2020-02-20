@@ -20,10 +20,10 @@
     }
 
     #container{
-        width: 130px;height: 378px;
+        width: 130px;height: 358px;
         
         margin-left: -65px;
-        margin-top: -180px;
+        margin-top: -169px;
     }
 
     #container > h1{
@@ -31,8 +31,8 @@
     }
 
     #container > div#product-description{
-        width: 300px;
-        margin-left: -85px;
+        width: 310px;
+        margin-left: -90px;
         margin-top: 35px;
     }
 
