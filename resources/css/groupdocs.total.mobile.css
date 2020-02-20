@@ -15,21 +15,30 @@
     }
 
     #navigation > li{
-        font-size: 16px;
-        margin: 0 20px;
+        font-size: 13px;
+        margin: 0px 7px;
     }
 
     #container{
-        width: 226px;
-        margin-left: -113px;
+        width: 130px;height: 378px;
+        
+        margin-left: -65px;
+        margin-top: -180px;
     }
 
     #container > h1{
-        font-size: 70px;
+        font-size: 40px;
+    }
+
+    #container > div#product-description{
+        width: 300px;
+        margin-left: -85px;
+        margin-top: 35px;
     }
 
     #social{
-        font-size: 22px;
+        font-size: 15px;
+        bottom: 0;
     }
 
     #social > li{

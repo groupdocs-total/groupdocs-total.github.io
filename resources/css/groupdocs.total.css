@@ -57,11 +57,11 @@ a{
 
 #container{
   width: 316px;
-  height: 140px;
+  height: 348px;
   position: absolute;
   top: 50%;
   left: 50%;
-  margin-top: -70px;
+  margin-top: -200px;
   margin-left: -158px;
 }
 
@@ -81,4 +81,28 @@ a{
 
 #container > h4{
   text-align: right;
+}
+
+#container > div#product-description{
+  width: 700px;
+  font-size: 13px;
+  margin-top: 70px;
+  margin-left: -157px;
+  text-align: center;
+  line-height: 1.5em;
+}
+
+#container > div#product-description > div{
+  width: 200px;
+  border: 1px solid;
+  padding: 10px;
+  margin: 20px auto;
+}
+
+#container > div#product-description > a.dot-net{
+  color: #0a9cfe;
+}
+
+#container > div#product-description > a.java{
+  color: #ff2a8e;
 }
